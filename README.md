@@ -45,4 +45,10 @@ make - получаем исполняемый файл
 После запускаем исполняемый файл
 Исходное содержимое файла Test_data.txt 
 
-Результат содержимое файла res.txt.
+<img width="960" height="432" alt="Screenshot from 2025-08-13 13-24-02" src="https://github.com/user-attachments/assets/ede754ec-4067-40a6-9609-8b663261f368" />
+
+Содержимое файла res.txt
+
+
+<img width="782" height="217" alt="Screenshot from 2025-08-13 13-24-16" src="https://github.com/user-attachments/assets/1b873165-df52-488b-94ee-42b1dec25506" />
+
